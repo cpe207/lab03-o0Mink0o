@@ -4,5 +4,5 @@
 
 [คลิกเพื่อดูรายละเอียดของแลป](https://o365cmu-my.sharepoint.com/:b:/g/personal/dome_potikanond_cmu_ac_th/Ee5eepPQUh5MoufXuw4s6dcBRaRyp7SPcgj09hTZWNq7aA?e=OK5xle)
 
-<strong>GITHUB PAGE URL :http://127.0.0.1:5500/index-real.html </strong>
+<strong>GITHUB PAGE URL :https://cpe207.github.io/lab03-o0Mink0o/ </strong>
 สรวิศ หยกเทียมแท้ 660610800
